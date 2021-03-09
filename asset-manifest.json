@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rechart-boilerplait/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/rechart-boilerplait/static/js/main.b1868ac0.chunk.js",
+    "main.js.map": "/rechart-boilerplait/static/js/main.b1868ac0.chunk.js.map",
+    "runtime-main.js": "/rechart-boilerplait/static/js/runtime-main.edbe7eab.js",
+    "runtime-main.js.map": "/rechart-boilerplait/static/js/runtime-main.edbe7eab.js.map",
+    "static/css/2.8a4e8fbd.chunk.css": "/rechart-boilerplait/static/css/2.8a4e8fbd.chunk.css",
+    "static/js/2.5bd6c886.chunk.js": "/rechart-boilerplait/static/js/2.5bd6c886.chunk.js",
+    "static/js/2.5bd6c886.chunk.js.map": "/rechart-boilerplait/static/js/2.5bd6c886.chunk.js.map",
+    "static/js/3.194338d7.chunk.js": "/rechart-boilerplait/static/js/3.194338d7.chunk.js",
+    "static/js/3.194338d7.chunk.js.map": "/rechart-boilerplait/static/js/3.194338d7.chunk.js.map",
+    "index.html": "/rechart-boilerplait/index.html",
+    "static/css/2.8a4e8fbd.chunk.css.map": "/rechart-boilerplait/static/css/2.8a4e8fbd.chunk.css.map",
+    "static/css/main.ea1455b2.chunk.css.map": "/rechart-boilerplait/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.5bd6c886.chunk.js.LICENSE.txt": "/rechart-boilerplait/static/js/2.5bd6c886.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edbe7eab.js",
+    "static/css/2.8a4e8fbd.chunk.css",
+    "static/js/2.5bd6c886.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.b1868ac0.chunk.js"
+  ]
+}
